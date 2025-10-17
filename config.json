@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "মাঘি🫦🥵",
+  "nickNameBot": "না⎯⎯⃝✰̶ʙꭵᥣᥣꭵ⚛𝐂𝐡𝐚𝐭 𝐁𝐨𝐭🍓•",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
@@ -25,8 +25,8 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100083039411474",
-      "100063840894133"
+      "tiptip1001",
+      "61581873324266"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
